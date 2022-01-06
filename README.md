@@ -16,7 +16,9 @@
 # 1. Reference
 * the code is from https://www.tutorialsteacher.com/python/python-package
 * the document refers to https://packaging.python.org/en/latest/tutorials/packaging-projects/
-
+* usage of setup.py, setup.cfg, pyproject.toml:
+  * [setuptools](https://setuptools.pypa.io/en/latest/setuptools.html)
+  * [setuptools user guide](https://setuptools.pypa.io/en/latest/userguide/index.html)
 
 # 2. installation
 ## 2.1. install with this folder
